@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\newwf\newwf\bin\Debug\newwf.exe.config
+C:\Users\admin\source\repos\newwf\newwf\bin\Debug\newwf.exe
+C:\Users\admin\source\repos\newwf\newwf\bin\Debug\newwf.pdb
+C:\Users\admin\source\repos\newwf\newwf\obj\Debug\newwf.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\newwf\newwf\obj\Debug\newwf.Properties.Resources.resources
+C:\Users\admin\source\repos\newwf\newwf\obj\Debug\newwf.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\newwf\newwf\obj\Debug\newwf.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\newwf\newwf\obj\Debug\newwf.exe
+C:\Users\admin\source\repos\newwf\newwf\obj\Debug\newwf.pdb
+C:\Users\admin\source\repos\newwf\newwf\obj\Debug\newwf.FormLogin.resources
